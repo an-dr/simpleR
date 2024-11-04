@@ -8,7 +8,7 @@ A mechanical robotic framework designed for research, education, and fun.
 
 The core concept of the framework is the **platform**. A platform is a flat platform that can support mechanics and electronics. These platforms are connected by vertical bars <!-- and can be covered shells -->. Below is the complete list of base parts:
 
-- **Unit**: Interchangeable square-shaped platform that can support mechanics and electronics.
+- **Platform**: Interchangeable square-shaped plate that can support mechanics and electronics.
 - **Bar**: Vertical structural element that connects the platforms (3 variants). You need 4 bars per project.
 <!-- - **Shell**: Cover with a closed or open top. (3 variants) -->
 
@@ -18,7 +18,7 @@ The framework includes both empty platforms and **prototypes** build on empty pl
 
 ## Base Framework Parts
 
-|  |  |
+| Part (link)  | Image |
 | --- | --- |
 | [Platform](framework-base\platform.step)| <img src="docs\README\platform.png" width="200"> |
 | [Bar - 1 Platform (left)](framework-base\bar-1p_left.step) | <img src="docs\README\bar-1p_left.png" width="200"> |
